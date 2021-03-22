@@ -8,12 +8,6 @@ Description: This package enables you to do multiple things in the process
     of taking DNA, translating it, creating a reading frame and translating
     this reading frame into proteins. What you do with this is up to you but
     i bet you could do a lot of funny things. Yeha DNA cowboy.
-Depends:
-    It is base R so no dependencies
-Imports:
-    None.
-Suggest:
-    ggplot2
 License: I do not actually know. At least R 3.0.0. 
 Encoding: UTF-8
 LazyData: true
