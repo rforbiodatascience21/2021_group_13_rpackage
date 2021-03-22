@@ -1,5 +1,16 @@
 # R/mk_codons.R
 
+#` Making a Codonframe
+
+#` Takes a DNA Sequence and returns a list of triplets (Codons)
+
+#` @param DNA sequence
+#` @param s start of making codons in sequence
+
+#` return codons 
+
+#` @export
+
 
 mk_codons <- function(dna, s = 1){
   l = nchar(dna)
