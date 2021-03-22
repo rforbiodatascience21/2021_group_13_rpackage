@@ -1,15 +1,15 @@
-# R/mk_codons.R
+#' R/mk_codons.R
 
-#` Making a Codonframe
+#' Making a Codonframe
 
-#` Takes a DNA Sequence and returns a list of triplets (Codons)
+#' Takes a DNA Sequence and returns a list of triplets (Codons)
 
-#` @param DNA sequence
-#` @param s start of making codons in sequence
+#' @param DNA sequence
+#' @param s start of making codons in sequence
 
-#` return codons 
+#' return codons 
 
-#` @export
+#' @export
 
 
 
