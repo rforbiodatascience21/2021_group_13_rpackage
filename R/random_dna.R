@@ -4,7 +4,7 @@
 
 #' @param length of wanted/expected DNA string
 
-#' return DNA 
+#' @return DNA 
 
 #' @export
 
