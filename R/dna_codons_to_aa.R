@@ -4,7 +4,7 @@
 
 #' @param Codons you want translated.
 
-#' return Amino Acids
+#' @return Amino Acids
 
 #' @export
 #' 
