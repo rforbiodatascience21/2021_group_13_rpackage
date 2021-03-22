@@ -1,12 +1,12 @@
-#' R/random_dna.R
+# R/random_dna.R
 
 #' Takes a length and returns a DNA string of equal length
 
 #' @param length of wanted/expected DNA string
 
-#' return DNA 
+#` return DNA 
 
-#' @export
+#` @export
 
 
 random_dna <- function(l){

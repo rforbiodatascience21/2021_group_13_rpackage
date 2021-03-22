@@ -1,4 +1,4 @@
-#' R/mk_codons.R
+# R/mk_codons.R
 
 #' Making a Codonframe
 
@@ -7,7 +7,7 @@
 #' @param DNA sequence
 #' @param s start of making codons in sequence
 
-#' return codons 
+#' @return codons 
 
 #' @export
 
