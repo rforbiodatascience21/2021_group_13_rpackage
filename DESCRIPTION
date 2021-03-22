@@ -5,9 +5,9 @@ Version: 0.1.0
 Author: Thanos, Karl, Sofus
 Maintainer: The package maintainer <sofus.wii@gmail.com>
 Description: This package enables you to do multiple things in the process
-of taking DNA, translating it, creating a reading frame and translating
-this reading frame into proteins. What you do with this is up to you but
-i bet you could do a lot of funny things. Yeha DNA cowboy.
+    of taking DNA, translating it, creating a reading frame and translating
+    this reading frame into proteins. What you do with this is up to you but
+    i bet you could do a lot of funny things. Yeha DNA cowboy.
 Depends:
     It is base R so no dependencies
 Imports:
