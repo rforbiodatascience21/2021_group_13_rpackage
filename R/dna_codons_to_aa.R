@@ -1,3 +1,12 @@
+# R/dna_codons_to_aa.R
+
+#` Takes string of codons and turns it into AA sequence
+
+#` @param codens string of codons
+
+#` return string of amino acids
+
+#` @export
 
 dna_codons_to_aa <- function(codons){
   std_code_table <- c("TTT" = "F", "TCT" = "S", "TAT" = "Y", "TGT" = "C",
