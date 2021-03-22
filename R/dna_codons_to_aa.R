@@ -1,4 +1,4 @@
-#' R/dna_codons_to_aa
+#' DNA_to_Codons
 
 #' Translates codons to the correct amino acid.
 

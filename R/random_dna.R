@@ -1,4 +1,4 @@
-#' R/random_dna.R
+#' Make random DNA string
 
 #' Takes a length and returns a DNA string of equal length
 
