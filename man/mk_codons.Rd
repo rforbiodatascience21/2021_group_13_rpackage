@@ -2,8 +2,7 @@
 % Please edit documentation in R/mk_Codons.R
 \name{mk_codons}
 \alias{mk_codons}
-\title{R/mk_codons.R
-Making a Codonframe
+\title{Making a Codonframe
 Takes a DNA Sequence and returns a list of triplets (Codons)}
 \usage{
 mk_codons(dna, s = 1)
@@ -17,7 +16,6 @@ mk_codons(dna, s = 1)
 codons
 }
 \description{
-R/mk_codons.R
 Making a Codonframe
 Takes a DNA Sequence and returns a list of triplets (Codons)
 }

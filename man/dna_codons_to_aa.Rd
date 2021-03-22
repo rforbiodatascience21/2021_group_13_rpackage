@@ -2,7 +2,7 @@
 % Please edit documentation in R/dna_codons_to_aa.R
 \name{dna_codons_to_aa}
 \alias{dna_codons_to_aa}
-\title{R/dna_codons_to_aa
+\title{DNA_to_Codons
 Translates codons to the correct amino acid.}
 \usage{
 dna_codons_to_aa(codons)
@@ -14,6 +14,6 @@ dna_codons_to_aa(codons)
 Amino Acids
 }
 \description{
-R/dna_codons_to_aa
+DNA_to_Codons
 Translates codons to the correct amino acid.
 }

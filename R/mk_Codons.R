@@ -1,5 +1,5 @@
 #' Making a Codonframe
-
+#'
 #' Takes a DNA Sequence and returns a list of triplets (Codons)
 
 #' @param DNA sequence
