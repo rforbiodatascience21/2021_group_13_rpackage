@@ -7,7 +7,7 @@
 #' @param DNA sequence
 #' @param s start of making codons in sequence
 
-#' return codons 
+#' @return codons 
 
 #' @export
 
