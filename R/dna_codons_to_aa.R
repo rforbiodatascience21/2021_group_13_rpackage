@@ -1,4 +1,4 @@
-#' DNA_to_Codons
+#' DNA to Codons Translator
 #'
 #' Translates codons to the correct amino acid.
 

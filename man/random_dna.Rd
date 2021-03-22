@@ -2,8 +2,7 @@
 % Please edit documentation in R/random_dna.R
 \name{random_dna}
 \alias{random_dna}
-\title{Make random DNA string
-Takes a length and returns a DNA string of equal length}
+\title{Make random DNA string}
 \usage{
 random_dna(l)
 }
@@ -14,6 +13,5 @@ random_dna(l)
 DNA
 }
 \description{
-Make random DNA string
 Takes a length and returns a DNA string of equal length
 }
