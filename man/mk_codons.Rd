@@ -2,18 +2,22 @@
 % Please edit documentation in R/mk_Codons.R
 \name{mk_codons}
 \alias{mk_codons}
-\title{Making a Codonframe
+\title{R/mk_codons.R
+Making a Codonframe
 Takes a DNA Sequence and returns a list of triplets (Codons)}
 \usage{
 mk_codons(dna, s = 1)
 }
 \arguments{
-\item{s}{start of making codons in sequence
-return codons}
+\item{s}{start of making codons in sequence}
 
 \item{DNA}{sequence}
 }
+\value{
+codons
+}
 \description{
+R/mk_codons.R
 Making a Codonframe
 Takes a DNA Sequence and returns a list of triplets (Codons)
 }
