@@ -2,13 +2,16 @@
 % Please edit documentation in R/random_dna.R
 \name{random_dna}
 \alias{random_dna}
-\title{Takes a length and returns a DNA string of equal length}
+\title{R/random_dna.R
+Takes a length and returns a DNA string of equal length}
 \usage{
 random_dna(l)
 }
 \arguments{
-\item{length}{of wanted/expected DNA string}
+\item{length}{of wanted/expected DNA string
+return DNA}
 }
 \description{
+R/random_dna.R
 Takes a length and returns a DNA string of equal length
 }
