@@ -1,4 +1,5 @@
 activeClientUrl="https://b41718826de743cf80888e04534e20c5.app.rstudio.cloud/"
+<<<<<<< HEAD
 build-last-errors="[]"
 build-last-errors-base-dir=""
 build-last-outputs="[{\"type\":0,\"output\":\"==> roxygen2::roxygenize('.', roclets = c('rd', 'collate', 'namespace'))\\n\\n\"},{\"type\":2,\"output\":\"First time using roxygen2. Upgrading automatically...\\n\"},{\"type\":2,\"output\":\"Error in if (any(mismatch <- res != res2)) { : \\n  missing value where TRUE/FALSE needed\\nCalls: suppressPackageStartupMessages ... idesc_create -> idesc_create_file -> idesc_create_text -> read_dcf\\nExecution halted\\n\"},{\"type\":2,\"output\":\"\\nExited with status 1.\\n\\n\"}]"
@@ -8,3 +9,6 @@ find-in-files-state="{\"handle\":\"\",\"input\":\"\",\"path\":\"\",\"regex\":fal
 imageDirtyState="0"
 portToken="6ccc328f8563"
 saveActionState="0"
+=======
+portToken="d6c0bab3ba1b"
+>>>>>>> 9d2dbd29ec35ef75f7fcd3388d36aefc9a930bfd

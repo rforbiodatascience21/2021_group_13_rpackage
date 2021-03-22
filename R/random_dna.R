@@ -1,8 +1,8 @@
 # R/random_dna.R
 
-#` Takes a length and returns a DNA string of equal length
+#' Takes a length and returns a DNA string of equal length
 
-#` @param length of wanted/expected DNA string
+#' @param length of wanted/expected DNA string
 
 #` return DNA 
 

@@ -9,7 +9,6 @@ Description: This package enables you to do multiple things in the process
     this reading frame into proteins. What you do with this is up to you but
     i bet you could do a lot of funny things. Yeha DNA cowboy.
 License: GPL-3 
-
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
