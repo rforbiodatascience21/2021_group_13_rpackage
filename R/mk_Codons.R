@@ -1,4 +1,4 @@
-# R/mk_codons.R
+#' R/mk_codons.R
 
 #' Making a Codonframe
 
