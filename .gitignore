@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
+lab08aSimpleRpackage.Rcheck/
+lab08aSimpleRpackage*.tar.gz
+lab08aSimpleRpackage*.tgz
+=======
+>>>>>>> 4ea7db01af9a5c0ca4e2c57ca10783d54e3b1208
