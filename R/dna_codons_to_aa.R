@@ -1,4 +1,14 @@
+#' R/dna_codons_to_aa
 
+#' Translates codons to the correct amino acid.
+
+#' @param Codons you want translated.
+
+#' return Amino Acids
+
+#' @export
+#' 
+#' 
 dna_codons_to_aa <- function(codons){
   std_code_table <- c("TTT" = "F", "TCT" = "S", "TAT" = "Y", "TGT" = "C",
                       "TTC" = "F", "TCC" = "S", "TAC" = "Y", "TGC" = "C",
