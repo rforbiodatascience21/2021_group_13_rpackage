@@ -1,5 +1,5 @@
 #' Make random DNA string
-
+#'
 #' Takes a length and returns a DNA string of equal length
 
 #' @param length of wanted/expected DNA string

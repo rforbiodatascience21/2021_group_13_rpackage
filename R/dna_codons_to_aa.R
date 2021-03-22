@@ -1,5 +1,5 @@
 #' DNA_to_Codons
-
+#'
 #' Translates codons to the correct amino acid.
 
 #' @param Codons you want translated.
